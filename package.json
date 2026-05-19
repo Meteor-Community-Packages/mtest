@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "get-port": "^4.1.0",
-    "puppeteer": "^13.4.0",
+    "puppeteer": "^25.0.4",
     "tree-kill": "^1.2.2",
     "yargs": "^15.4.1"
   },
